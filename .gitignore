@@ -1,0 +1,15 @@
+# executables
+*.exe
+program
+
+# logs and temp files
+*.log
+*.tmp
+
+# cache directories
+cache/
+temp/
+
+# OS junk
+.DS_Store
+Thumbs.db
